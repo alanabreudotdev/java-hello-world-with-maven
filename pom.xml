@@ -5,7 +5,7 @@
   <groupId>br.com.hapvida</groupId>
 	<artifactId>pepsam</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>PEPSAM</name>
 	<description>API responsável pela disonibilização de serviços relacionados ao PEP-SAM. Projeto criado em Java EE 7 para uso no JBoss WildFly / WildFly, gerado originalmente do arquétipo jboss-javaee6-webapp</description>
   <url>http://maven.apache.org</url>
