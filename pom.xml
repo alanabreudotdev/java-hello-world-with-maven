@@ -2,11 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>info.maigo.lab.hello</groupId>
-  <artifactId>maigolab_hello</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0.0</version>
-  <name>maigolab_hello</name>
+  <groupId>br.com.hapvida</groupId>
+	<artifactId>pepsam</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<name>PEPSAM</name>
+	<description>API responsável pela disonibilização de serviços relacionados ao PEP-SAM. Projeto criado em Java EE 7 para uso no JBoss WildFly / WildFly, gerado originalmente do arquétipo jboss-javaee6-webapp</description>
   <url>http://maven.apache.org</url>
 
   <build>
